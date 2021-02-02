@@ -10,7 +10,7 @@ var backgroundImg;
 function preload() {
 
 
-backgroundImg = loadImage("GamingBackGround.png");
+backgroundImg = loadImage("GamingBackground.png");
 
 }
 
